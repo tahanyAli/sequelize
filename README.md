@@ -1,1 +1,3 @@
 # Sequelize
+
+``SELECT * from "Food";``
